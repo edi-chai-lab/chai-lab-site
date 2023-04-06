@@ -8,7 +8,10 @@ before_script:
   - bundle install
 pages:
   script:
+    - mkdir .public
     - bundle exec jekyll build
+    - cp -r * .public
+    - mv .public public
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
