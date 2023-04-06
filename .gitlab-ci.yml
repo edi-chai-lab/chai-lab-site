@@ -12,6 +12,7 @@ pages:
     - bundle exec jekyll build
     - cp -r * .public
     - mv .public public
+    - ls -R
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
