@@ -46,12 +46,14 @@ categories:
   <div class="col-lg-4 paperbox">
     <div class="media">
       <div class="media-body">
-        <div class="smallhead mb-1"><a href="{{ paper.url }}" class="off">{{ paper.title }}</a></div>
+        <div class="smallhead mb-1"><a href="{{ paper.url | relative_url }}" class="off">{{ paper.title }}</a></div>
         <p class="note">{{ paper.ref }}</p>
       </div>
-      <a href="{{ paper.url }}">
-        <img class="ml-3" width=100 class="media-object" src="{{ paper.image }}">
+      {% if paper.image %}
+      <a href="{{ paper.url | relative_url }}">
+        <img class="ml-3" width=100 class="media-object" src="{{ paper.image | relative_url }}">
       </a>
+      {% endif %}
     </div>
     <div class="bigspacer"></div>
     <div class="spacer"></div>
