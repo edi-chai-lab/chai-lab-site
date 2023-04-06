@@ -14,8 +14,9 @@ categories:
 </div>
 
 <div class="bigspacer"></div>
+{% assign sorted = site.categories.team | sort:"date" %}
 
-{% for member in site.categories.team reversed %}
+{% for member in sorted %}
 	{% if member.alumni != true %}
     {% cycle 'add rows': '<div class="row">', '', '' %}
 		<div class="col-lg-4 memberbox">
