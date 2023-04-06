@@ -10,10 +10,10 @@
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
   <!-- Customized Bootstrap + Font Awesome + Solarized -->
-  <link type="text/css" href="/css/style.css" rel="stylesheet" media="screen">
+  <link type="text/css" href="{{ '/css/style.css' | relative_url }}" rel="stylesheet" media="screen">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="/images/favicon.png"/>
+	<link rel="shortcut icon" href="{{ '/images/favicon.png' | relative_url }}">
 
 	<!-- Typekit -->
 	<script>
@@ -39,10 +39,10 @@
 	</script>
 
 	<!-- jQuery -->
-	<script type="application/json" src="/js/jquery.min.js"></script>
+	<script type="application/json" src="{{ '/js/jquery.min.js' | relative_url }}"></script>
 
 	<!-- Bootstrap -->
-	<script type="application/json" src="/js/bootstrap.min.js"></script>
+	<script type="application/json" src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
 
 </head>
 
@@ -53,7 +53,7 @@
 			<div class="container">
 				{% if page.categories.first != 'home' %}
 				<a class="navbar-brand" href="/">
-					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/chai-mini.png">
+					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="{{ '/images/chai-mini.png' | relative_url }}">
 					CHAI Lab
 				</a>
 				{% else %}
@@ -70,27 +70,27 @@
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/blog/">blog</a>
+						<a class="mx-1" href="{{ '/blog/' | relative_url }}">blog</a>
 						</li>
 						{% if page.categories.first == 'papers' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/papers/">papers</a>
+						<a class="mx-1" href="{{ '/papers/' | relative_url }}">papers</a>
 						</li>
 						{% if page.categories.first == 'projects' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/projects/">projects</a></li>
+						<a class="mx-1" href="{{ '/projects/' | relative_url }}">projects</a></li>
 						{% if page.categories.first == 'team' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/team/">team</a></li>
+						<a class="mx-1" href="{{ '/team/' | relative_url }}">team</a></li>
 					</ul>
 				</div>
 			</div>
