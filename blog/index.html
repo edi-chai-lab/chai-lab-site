@@ -11,12 +11,12 @@ category: blog
 		<div class="centered-pills">
 			<ul class="nav nav-pills note">
 				<li role="presentation" class="nav-item">
-					<a class="nav-link active" href="/blog/">
+					<a class="nav-link active" href="{{ base_url }}/blog/">
 						<i class="fa fa-refresh fa-fw"></i> Timeline
 					</a>
 				</li>
 				<li role="presentation" class="nav-item">
-					<a class="nav-link off" href="/blog/archive/">
+					<a class="nav-link off" href="{{ base_url }}/blog/archive/">
 						<i class="fa fa-list-ul fa-fw"></i> Index
 					</a>
 				</li>
@@ -37,7 +37,7 @@ category: blog
 				<div class="media">
 					<div class="media-body">
 						<div class="title media-heading">
-							<a href="{{ post.url }}" class="off">{{ post.title }}</a>
+							<a href="{{ post.url | relative_url }}" class="off">{{ post.title }}</a>
 						</div>
 						<p>
 						<div class="smallhead">
@@ -68,7 +68,7 @@ category: blog
               <a class="off" href="
                 {% for member in site.categories.team %}
                   {% if member.title == post.authors.last %}
-                    {{ member.url }}
+                    {{ member.url | relative_url }}
                   {% endif %}
                 {% endfor %}
               ">
@@ -89,11 +89,11 @@ category: blog
 			<div class="col-lg-10">
 				{% if post.image %}
 				{% if post.link %}
-				<a href="{{ post.link }}">
-					<img class="offset" src="{{ post.image }}">
+				<a href="{{ post.link | relative_url }}">
+					<img class="offset" src="{{ post.image | relative_url }}">
 				</a>
 				{% else %}
-				<img class="offset" src="{{ post.image }}">
+				<img class="offset" src="{{ post.image | relative_url }}">
 				{% endif %}
 				{% endif %}
 				<div class="post">
@@ -119,7 +119,7 @@ category: blog
 		<div id="scroll" class="centered-pills">
 			<ul class="nav nav-pills note">
 				<li role="presentation">
-					<a class="off" href="/blog/">
+					<a class="off" href="{{ /blog/ | relative_url}}">
 						<i class="fa fa-chevron-up fa-fw"></i> Back to top
 					</a>
 				</li>
@@ -129,4 +129,4 @@ category: blog
 </div>
 
 <!-- Infinite scroll -->
-<script async src="/js/infinite-scroll.js"></script>
+<script async src="{{ /js/infinite-scroll.js | relative_url }}"></script>
