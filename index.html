@@ -187,7 +187,7 @@ categories:
 			<ul class="list-inline">
 				{% for page in site.categories.misc %}
 				<li class="footernav list-inline-item">
-					<i class="fa fa-angle-right"></i> <a class="off" href="{{ page.url }}">{{ page.title }}</a>
+					<i class="fa fa-angle-right"></i> <a class="off" href="{{ page.url | relative_url }}">{{ page.title }}</a>
 				</li>
 				{% endfor %}
 				<!-- <li class="footernav list-inline-item">
@@ -202,15 +202,16 @@ categories:
 <div class="row">
   <div class="col-lg-12">
     <div class="float-lg-right" style="vertical-align: bottom; display: table-cell;">
-      <a class="off" href="https://www.fredhutch.org/">
+	<!-- UofE logos to go here -->
+      <!-- <a class="off" href="https://www.fredhutch.org/">
         <img width=70 src="/images/logos/logo_fred_hutch_vertical_grayscale.png">
       </a>
       &nbsp; &nbsp; &nbsp; &nbsp;
       <a class="off" href="https://www.hhmi.org/">
         <img width=68 src="/images/logos/logo_hhmi_grayscale.png">
       </a>
-    </div>
+    </div> -->
   </div>
 </div>
 
-<a style="display:none;" rel="me" href="https://mstdn.science/@trvrb">Hidden Mastodon Link for Verification</a>
+<!-- <a style="display:none;" rel="me" href="https://mstdn.science/@trvrb">Hidden Mastodon Link for Verification</a> -->
