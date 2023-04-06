@@ -7,7 +7,7 @@ categories:
 
 <div class="row">
 	<div class="col-lg-12">
-		<object class="pull-left biglogo" data="{{ '/images/chai-mini.png' | relative_url }}" type="image/png"></object>
+		<object class="pull-left biglogo" data="{{ '/images/CHAI-mini.png' | relative_url }}" type="image/png"></object>
 		<div class="bigtitle logobox">
 			CHAI Lab
 		</div>
@@ -33,7 +33,7 @@ categories:
 <div class="row">
 	<div class="col-lg-12">
 		<div class="head">
-			<a class="off" href="{{ site.baseurl }}/blog/">Recent posts</a>
+			<a class="off" href="{{ '/blog/' | relative_url }}">Recent posts</a>
 		</div>
 		<div class="spacer"></div>
 	</div>
@@ -64,7 +64,7 @@ categories:
         by <a class="off" href="
           {% for member in site.categories.team %}
             {% if member.title == post.author %}
-              {{ member.url }}
+			  {{ member.url | relative_url }}
             {% endif %}
           {% endfor %}
         ">
@@ -76,7 +76,7 @@ categories:
         <a class="off" href="
           {% for member in site.categories.team %}
             {% if member.title == post.authors.first %}
-              {{ member.url }}
+			  {{ member.url | relative_url }}
             {% endif %}
           {% endfor %}
         ">
@@ -86,7 +86,7 @@ categories:
         <a class="off" href="
           {% for member in site.categories.team %}
             {% if member.title == post.authors.last %}
-              {{ member.url }}
+              {{ member.url | relative_url }}
             {% endif %}
           {% endfor %}
         ">
@@ -105,7 +105,7 @@ categories:
 <div class="row">
 	<div class="col-lg-12">
 		<div class="head">
-			<a class="off" href="/papers/">Recent papers</a>
+			<a class="off" href="{{ '/papers/' | relative_url }}">Recent papers</a>
 		</div>
 		<div class="spacer"></div>
 	</div>
@@ -117,7 +117,7 @@ categories:
 		<div class="pad-left">
 			<div class="note">
 				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="{{ paper.url }}">
+				<a class="off" href="{{ paper.url | relative_url}}">
 				{{ paper.title }}
 				</a>
 			</div>
