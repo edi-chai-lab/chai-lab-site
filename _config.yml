@@ -1,6 +1,7 @@
 name: CHAI Lab
 description: Human Centred Artificial Intelligence at the University of Edinburgh
 url: http://chai.inf.ed.ac.uk
+destination: public/
 
 markdown: kramdown
 permalink: /:categories/:title/
