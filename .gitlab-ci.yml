@@ -8,10 +8,8 @@ before_script:
   - bundle install
 pages:
   script:
-    - mkdir .public
     - bundle exec jekyll build
-    - cp -r * .public
-    - mv .public public
+    - cd public
     - ls -R
   artifacts:
     paths:
