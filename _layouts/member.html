@@ -7,7 +7,7 @@ layout: default
 <div class="row">
 	<div class="col-lg-12">
 		{% if member.image %}
-		<img class="pull-left pad-right media-object d-none d-sm-block" src="{{ member.image }}">
+		<img class="pull-left pad-right media-object d-none d-sm-block" src="{{ member.image | relative_url }}">
 		{% endif %}
 		<div class="titlebox">
 			<div class="bigtitle">
@@ -32,7 +32,7 @@ layout: default
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-file-text-o fa-fw"></i>
-			<a class="off" href="{{ member.cv }}">{{ member.cv | split: '/' | last }}</a>
+			<a class="off" href="{{ member.cv | relative_url }}">{{ member.cv | split: '/' | last }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
@@ -125,7 +125,7 @@ layout: default
 		<div class="spacer"></div>
 		{% for paper in site.categories.papers %}
 		{% if paper.authors contains searchstring %}
-		<p><a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
+		<p><a href="{{ paper.url | relative_url }}" class="off">{{ paper.title }}</a>
 		{% endif %}
 		{% endfor %}
 		{% endif %}
@@ -177,7 +177,7 @@ layout: default
 			{% for post in site.categories.blog %}
 				{% if post.author %}
 					{% if member.title == post.author %}
-						<p><a href="{{ post.url }}" class="off">{{ post.title }}</a>
+						<p><a href="{{ post.url | relative_url }}" class="off">{{ post.title }}</a>
 					{% endif %}
 				{% endif %}
 				{% if post.authors %}
@@ -188,7 +188,7 @@ layout: default
 						{% endif %}
 					{% endfor %}
 					{% if found %}
-						<p><a href="{{ post.url }}" class="off">{{ post.title }}</a>
+						<p><a href="{{ post.url | relative_url }}" class="off">{{ post.title }}</a>
 					{% endif %}
 				{% endif %}
 			{% endfor %}

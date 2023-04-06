@@ -5,8 +5,8 @@ layout: default
 <div class="row">
 	<div class="col-lg-12">
 		{% if page.image %}
-		<img class="pull-left pad-right media-object d-none d-sm-block" src="{{ page.image }}">
-		<img width=85 class="float-left pad-right d-block d-sm-none" src="{{ page.image }}">
+		<img class="pull-left pad-right media-object d-none d-sm-block" src="{{ page.image | relative_url }}">
+		<img width=85 class="float-left pad-right d-block d-sm-none" src="{{ page.image | relative_url }}">
 		{% endif %}
 		<div class="titlebox">
 			<div class="title">
@@ -35,7 +35,7 @@ layout: default
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="{{ page.pdf }}">{{ page.pdf | split: '/' | last }}</a>
+				<a class="off" href="{{ page.pdf | relative_url }}">{{ page.pdf | split: '/' | last }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
@@ -46,7 +46,7 @@ layout: default
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-paperclip fa-fw"></i>
-				<a class="off" href="{{ page.supplement }}">{{ page.supplement | split: '/' | last }}</a>
+				<a class="off" href="{{ page.supplement | relative_url }}">{{ page.supplement | split: '/' | last }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
