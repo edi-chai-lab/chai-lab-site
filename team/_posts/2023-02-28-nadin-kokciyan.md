@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Nadin Kökciyan
-position: Principal Investigator
+position: Director of CHAI Lab
 image: /images/team/nadin-kokciyan.jpg
 ---
 
