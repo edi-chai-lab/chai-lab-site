@@ -1,3 +1,4 @@
+---
 layout: paper
 title: Taking Situation-Based Privacy Decisions: Privacy Assistants Working with Humans
 authors: Nadin Kokciyan, PInar Yolum
@@ -7,3 +8,4 @@ conference: "Proceedings of the Thirty-First International Joint Conference on A
 pdf: https://homepages.inf.ed.ac.uk/nkokciya/papers/IJCAI22-PAS-Privacy-Assistant.pdf
 supplement: https://homepages.inf.ed.ac.uk/nkokciya/papers/IJCAI22-PAS-Privacy-Assistant.pdf
 gitlab: https://git.ecdf.ed.ac.uk/nkokciya/pas-privacy
+---
