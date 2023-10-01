@@ -1,6 +1,8 @@
 # Environment files
 environment*
 
+papers/_posts/*
+
 # Compiled site
 _site/
 

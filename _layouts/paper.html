@@ -10,14 +10,21 @@ layout: default
 		{% endif %}
 		<div class="titlebox">
 			<div class="title">
-				{{ page.title }}
+				{% if page.url %}
+				<a href="{{ page.url }}"> {{ page.title }} </a>
+				{% endif %}
 			</div>
 			<p>
-			<div class="smallhead">
-				{{ page.authors }}
+			<div class="smallhead row">
+				{{ page.author }}
 				{{ page.year }}.
 				{{ page.journal }}
 			</div>
+			{% if page.abstract %}
+			<div class="row">
+				{{ page.abstract }}
+			</div>
+			{% endif %}
 		</div>
 	</div>
 </div>
