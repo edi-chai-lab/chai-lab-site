@@ -13,11 +13,15 @@ b.each { |x| y = x.to_hash
     ref = x.author[0][1].to_s +", " + x.year.to_s
   end
   y[:ref] = ref
-  f_name = "papers/_posts/01-01-"+x.year.to_s[-2..-1]+"-"+x.title.to_s.tr('\"{}', '').tr(' ', '-')+".md"
-  puts f_name
+  y[:external_url] = y.delete :url
+
   y.transform_values { |value| '"' + value.to_s + '"'}
   y = y.transform_keys(&:to_s).to_yaml
   y = y.tr('{}', '')
   y = y + '---'
+
+  f_name = "papers/_posts/01-01-"+x.year.to_s[-2..-1]+"-"+x.title.to_s.tr('\"{}', '').tr(' ', '-')+".md"
+  puts f_name
+
   File.write(f_name, y)
  }

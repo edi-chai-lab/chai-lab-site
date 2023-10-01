@@ -3,7 +3,7 @@ environment*
 
 
 # Compiled site
-_site/
+public/*
 
 # Projects
 projects/
