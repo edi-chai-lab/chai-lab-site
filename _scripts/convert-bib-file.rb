@@ -4,7 +4,7 @@ require 'fileutils'
 
 b = BibTeX.open('_data/references.bib')
 
-FileUtils.rm_rf("papers/_posts/.", secure: true)
+FileUtils.rm_rf("papers/_posts/*.md", secure: true)
 b.each { |x| y = x.to_hash
   y[:layout] = 'paper'
   if y[:author].length > 1
