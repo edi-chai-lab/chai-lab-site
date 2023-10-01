@@ -12,3 +12,6 @@ gem 'netrc'
 
 # Twitter
 gem 'jekyll-twitter-plugin'
+
+# bibtex
+gem 'bibtex-ruby'
