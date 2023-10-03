@@ -13,7 +13,7 @@ layout: default
 				{% if page.external_url %}
 				<a href="{{ page.external_url }}"> {{ page.title }} </a>
 				{% else %}
-				{{ page.title }} 
+				{{ page.title }}
 				{% endif %}
 			</div>
 			<p>
@@ -70,14 +70,14 @@ layout: default
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
-			{% if page.github %}
+			{% if page.gitlab %}
 			<div class="smallhead">
-				GitHub
+				GitLab
 			</div>
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
-				<i class="fa fa-github-alt fa-fw"></i>
-				<a class="off" href="{{ page.github }}">{{ page.github | remove: 'http://github.com/' | remove: 'https://github.com/' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
+				<i class="fa fa-gitlab fa-fw"></i>
+				<a class="off" href="{{ page.gitlab }}">{{ page.gitlab | remove: 'http://git.ecdf.ed.ac.uk/' | remove: 'https://git.ecdf.ed.ac.uk/' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
