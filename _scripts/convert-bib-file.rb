@@ -20,7 +20,7 @@ b.each { |x| y = x.to_hash
   y = y.to_yaml.tr('{}', '')
   y = y + '---'
 
-  f_name = "papers/_posts/01-01-"+x.year.to_s[-2..-1]+"-"+x.title.to_s.tr('\"{}', '').tr(' ', '-')+".md"
+  f_name = "papers/_posts/"+x.year.to_s+"-01-01"+"-"+x.title.to_s.tr('\"{}', '').tr(' ', '-')+".md"
   puts f_name
 
   puts y
