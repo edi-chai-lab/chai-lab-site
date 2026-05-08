@@ -1,6 +1,6 @@
 ---
 layout: member
 title: Tarini Saka
-position: PhD Student
+position: Former PhD Student
 image: /images/team/tarini-saka.jpg
 ---
