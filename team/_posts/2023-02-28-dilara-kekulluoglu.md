@@ -1,6 +1,6 @@
 ---
 layout: member
 title: Dilara Kekulluoglu
-position: Postdoc
+position: Former Postdoc
 image: /images/team/dilara-kekulluoglu.jpg
 ---
