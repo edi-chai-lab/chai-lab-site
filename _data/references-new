@@ -1,0 +1,657 @@
+@ARTICLE{11395412,
+  author={Kökciyan, Nadin and Murukannaiah, Pradeep K. and Yolum, Pinar},
+  journal={IEEE Internet Computing}, 
+  title={Special Issue on Human Meets AI}, 
+  year={2025},
+  volume={29},
+  number={5},
+  pages={5-6}
+}
+
+
+@ARTICLE{11261668,
+  author={Keküllüoğlu, Dilara and Niu, Yuqi and Rovatsos, Michael and Kökciyan, Nadin},
+  journal={IEEE Internet Computing}, 
+  title={Understanding User Trust and Expectations in Answerable Sociotechnical Systems}, 
+  year={2025},
+  volume={29},
+  number={5},
+  pages={35-43}
+  }
+
+
+@ARTICLE{11236462,
+  author={Araiza-Illan, Dejanira and Baum, Kevin and Beebee, Helen and Chatila, Raja and Christensen, Sarah Moth-Lund and Coghlan, Simon and Collins, Emily and Conroy, S.Kate and Cunha, Alcino and Dobrosovestnova, Anna and Duijf, Hein and Evers, Vanessa and Fisher, Michael and Hochgeschwender, Nico and Kökciyan, Nadin and Lemaignan, Séverin and Rodriguez-Lera, Francisco and Ljungblad, Sara and Magnusson, Martin and Mansouri, Masoumeh and Milford, Michael and Moon, AJung and Powers, Thomas M. and Salvini, Pericle and Scantamburlo, Teresa and Schuster, Nick and Slavkovik, Marija and Topcu, Ufuk and Vanegas, Daniel and Wasowski, Andrzej and Yang, Yi},
+  journal={IEEE Robotics \& Automation Magazine}, 
+  title={A Road Map for Responsible Robotics: Promoting Human Agency and Collaborative Efforts}, 
+  year={2025},
+  volume={32},
+  number={4},
+  pages={12-24}
+  }
+
+
+@inproceedings{musi-etal-2025-toward,
+    title = "Toward Reasonable Parrots: Why Large Language Models Should Argue with Us by Design",
+    author = {Musi, Elena  and
+      K{\"o}kciyan, Nadin  and
+      Khatib, Khalid Al  and
+      Ceolin, Davide  and
+      Dietz, Emmanuelle  and
+      Gutekunst, Klara Maximiliane  and
+      Hautli-Janisz, Annette  and
+      Santib{\'a}{\~n}ez, Cristi{\'a}n  and
+      Schneider, Jodi  and
+      Scholz, Jonas  and
+      Steging, Cor  and
+      Visser, Jacky  and
+      Wachsmuth, Henning},
+    booktitle = "Proceedings of the 12th Argument mining Workshop",
+    month = jul,
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
+    pages = "24--31"
+}
+
+@inproceedings{zhou-etal-2025-daydreamer,
+    title = "{D}ay{D}reamer at {CQ}s-Gen 2025: Generating Critical Questions through Argument Scheme Completion",
+    author = {Zhou, Wendi  and
+      Saadat-Yazdi, Ameer  and
+      K{\"o}kciyan, Nadin},
+    booktitle = "Proceedings of the 12th Argument mining Workshop",
+    month = jul,
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
+    pages = "289--294"
+}
+
+@inproceedings{argmin-25-aspect,
+  title     = {Aspect-Based Opinion Summarization with Argumentation Schemes},
+  author    = {Zhou, Wendi and Saadat-Yazdi, Ameer and Kokciyan, Nadin},
+  booktitle = {Proceedings of the 12th Argument mining Workshop},
+  year      = {2025}, 
+  publisher = "Association for Computational Linguistics",
+    pages = "116--125",
+    
+}
+
+@article{cscw-privacy-25,
+author = {Niu, Yuqi and Qiu, Weidong and Tang, Peng and Wang, Lifan and Chen, Shuo and Li, Shujun and K\"{o}kciyan, Nadin and Niu, Ben},
+title = {Everyone's Privacy Matters! An Analysis of Privacy Leakage from Real-World Facial Images on Twitter and Associated User Behaviors},
+year = {2025},
+publisher = {Association for Computing Machinery},
+volume = {9},
+number = {2},
+journal = {Proc. ACM Hum.-Comput. Interact.},
+articleno = {CSCW069},
+numpages = {38}
+}
+
+@ARTICLE{privacy-css-25,
+  author={Niu, Yuqi and Chen, Shuo and Kökciyan, Nadin and Qiu, Weidong},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={Analyzing Social Media Comments to Understand and Detect Privacy Violations}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14}
+}
+
+@ARTICLE{sok-phishing-25,
+  author={Saka, Tarini and Vaniea, Kami and Kökciyan, Nadin},
+  journal={IEEE Access}, 
+  title={SoK: Grouping Spam and Phishing Email Threats for Smarter Security}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={54938-54959},
+  }
+
+@inproceedings{chi-privacy-25,
+author = {Niu, Yuqi and Meng-Schneider, Nicole and Qiu, Weidong and Kokciyan, Nadin},
+title = {``I am not the primary focus" - Understanding the Perspectives of Bystanders in Photos Shared Online},
+year = {2025},
+publisher = {Association for Computing Machinery},
+booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+articleno = {899},
+pages = {1-23}
+}
+
+@misc{saka2024phishingcodebookstructuredframework,
+      title={Phishing Codebook: A Structured Framework for the Characterization of Phishing Emails}, 
+      author={Saka, Tarini and Vaniea, Kami and Kokciyan, Nadin},
+      year={2024},
+      eprint={2408.08967},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2408.08967}, 
+}
+
+@inproceedings{chi-phishing-25,
+author = {Saka, Tarini and Vakali, Kalliopi and Jenkins, Adam D G and Kokciyan, Nadin and Vaniea, Kami},
+title = {Evaluating the Impact of Automated Assistance on User Phishing Detection},
+year = {2025},
+publisher = {Association for Computing Machinery},
+booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+articleno = {1200},
+pages = {1-18}
+}
+
+@article{10.1613/jair.1.15407,
+author = {Castagna, Federico and Kokciyan, Nadin and Sassoon, Isabel and Parsons, Simon and Sklar, Elizabeth},
+title = {Computational Argumentation-based Chatbots: A Survey},
+year = {2024},
+volume = {80},
+journal = {Journal of Artificial Intelligence Research},
+month = {aug},
+pages = {1271--1310},
+numpages = {40}
+}
+
+@inproceedings{saadat-yazdi-kokciyan-2024-beyond,
+    title = "Beyond Recognising Entailment: Formalising Natural Language Inference from an Argumentative Perspective",
+    author = {Saadat-Yazdi, Ameer  and
+      Kokciyan, Nadin},
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    publisher = "Association for Computational Linguistics",
+    pages = "9620--9636"
+}
+
+@inproceedings{ecai-24-answer,
+  title     = {Answerable Sociotechnical Systems},
+  author    = {Kekulluoglu, Dilara and Rovatsos, Michael and Kokciyan, Nadin},
+  booktitle = {European Conference on Artificial Intelligence (ECAI)},
+  year      = {2024},
+  pages = {4451--4454},
+  series = {Frontiers in Artificial Intelligence and Applications}
+}
+
+@inproceedings{secai-24,
+  title     = {{PhishCoder: Efficient Extraction of Contextual Information from Phishing Emails}},
+  author    = {Saka, Tarini and Vaniea, Kami and Kokciyan, Nadin},
+  booktitle = {Computer Security. ESORICS 2024 International Workshops},
+  year      = {2025},
+ pages="128--148"
+}
+
+@inproceedings{cscw-23-answerability,
+  title     = {Answerability by Design in Sociotechnical Systems},
+  author    = {Kekulluoglu, Dilara and Hatherall, Louise and Sethi, Nayha and Vierkant, Tillman and Vallor, Shannon and Kokciyan, Nadin and Rovatsos, Michael},
+  booktitle = {CSCW 2023 Workshop Supporting User Engagement in Testing, Auditing, and Contesting AI},
+  year      = {2023},
+  note = {[accepted]}
+}
+
+
+@inproceedings{tas-23-responsible,
+  title     = {Responsible Agency Through Answerability: Cultivating the Moral Ecology of Trustworthy Autonomous Systems},
+  author    = {Hatherall, Louise and Kekulluoglu, Dilara and Kokciyan, Nadin and Rovatsos, Michael and Sethi, Nayha and Vierkant, Tillman and Vallor, Shannon},
+  booktitle = {Proceedings of the First International Symposium on Trustworthy Autonomous Systems (TAS)},
+  pages     = {1--5},
+  year      = {2023}
+}
+
+
+@inproceedings{aamas-23-argument,
+  title     = {A Web-based Tool for Detecting Argument Validity and Novelty},
+  author    = {Chausson, Sandrine and Saadat-Yazdi, Ameer and Li, Xue and Pan, Jeff Z and Belle, Vaishak and Kokciyan, Nadin and Ross, Bjorn},
+  booktitle = {Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+  pages     = {3053--3055},
+  year      = {2023}
+}
+
+
+@inproceedings{aamas-23-contexual,
+ title      = {Contextual Integrity for Argumentation-Based Privacy Reasoning},
+ author     = {Ogunniye, Gideon and Kokciyan, Nadin},
+ booktitle  = {Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+ pages      = {2253–2261},
+ year       = {2023}
+}
+
+
+@inproceedings{eacl-23-uncovering,
+  title     = {Uncovering Implicit Inferences for Improved Relational Argument Mining},
+  author    = {Saadat-Yazdi, Ameer and Pan, Jeff and Kokciyan, Nadin},
+  booktitle = {Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics (EACL-23)},
+  pages     = {2476--2487},
+  year      = {2023}
+}
+
+
+@inproceedings{usec-23-reporting,
+  title     = {“I didn’t click”: What users say when reporting phishing},
+  author    = {Pilavakis, Nikolas and Jenkins, Adam and Kokciyan, Nadin and Vaniea, Kami},
+  booktitle = {Proceedings of Symposium on Usable Security and Privacy (USEC)},
+  pages     = {1--13},  
+  year      = {2023},
+  note = {\textbf{[Best paper]}}
+}
+
+
+@inproceedings{aisec-22-context,
+ title      = {Context-Based Clustering to Mitigate Phishing Attacks},
+ author     = {Saka, Tarini and Vaniea, Kami and Kokciyan, Nadin},
+ booktitle  = {Proceedings of the ACM Workshop on Artificial Intelligence and Security (AISec-22)},
+ pages      = {115–126},
+ year       = {2022}
+}
+
+
+@inproceedings{argmin-22-kevin,
+  title     = {{KEViN}: A knowledge enhanced validity and novelty classifier for arguments},
+  author    = {Saadat-Yazdi, Ameer and Li, Xue and Chausson, Sandrine and Belle, Vaishak and Ross, Bjorn and Pan, Jeff Z and Kokciyan, Nadin},
+  booktitle = {Proceedings of the Workshop on Argument Mining},
+  year      = {2022},
+  pages     = {104--110}
+}
+
+
+@ARTICLE{jair-23-survey,
+  title     = {A survey on understanding and representing privacy requirements in the Internet-of-Things},
+  author    = {Ogunniye, Gideon and Kokciyan, Nadin},
+  journal   = {Journal of Artificial Intelligence Research (JAIR)},
+  year      = {2023},
+  pages     = {163--192}, 
+  volume    = {76}
+}
+
+@inproceedings{ichi-20-stroke,
+  title     = {In the wild pilot usability assessment of a connected health system for stroke self management},  
+  author    = {Balatsoukas, Panagiotis and Sassoon, Isabel and Chapman, Martin and Kokciyan, Nadin and Drake, Archie and Modgil, Sanjay and Ashworth, Mark and Curcin, Vasa and Sklar, Elizabeth and Parsons, Simon},
+  booktitle = {IEEE International Conference on Healthcare Informatics (ICHI)},
+  year      = {2020},
+  pages     = {1--3}
+}
+
+
+@article{sassoon2020implementing,
+  title     = {Implementing argument and explanation schemes in dialogue},
+  author    = {Sassoon, Isabel and Kokciyan, Nadin and Chapman, Martin and Sklar, Elizabeth and Curcin, Vasa and Modgil, Sanjay and Parsons, Simon},
+  booktitle = {Computational Models of Argument - Proceedings of the International Conference on Computational Models of Argument (COMMA-20)},
+  pages     = {471--472},
+  year      = {2020}
+}
+
+@inproceedings{phished-Soups-22,
+title = "{PhishED}: Automated contextual feedback for reported Phishing",
+author = "Adam Jenkins and Nadin Kokciyan and Kami Vaniea",
+year = "2022",
+booktitle = {Proceedings of the  Symposium on Usable Privacy and Security (SOUPS 2022 Posters)},
+url = {https://www.usenix.org/conference/soups2022/presentation/jenkins-poster}
+}
+
+@inproceedings{micro-Chapman-22,
+title = "Using Microservices to Design Patient-facing Research Software",
+author = "Martin Chapman and Abigail G-Medhin and Isabel Sassoon and Nadin Kokciyan and Elizabeth Sklar and Vasa Curcin",
+year = "2022",
+booktitle = "IEEE 18th International Conference on eScience",
+pages     = {44-54}
+}
+
+@inproceedings{ijcai-22-privacy,
+  title     = {Taking Situation-Based Privacy Decisions: Privacy Assistants Working with Humans},
+  author    = {Kokciyan, Nadin and Yolum, P{\i}nar},
+  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+  pages     = {703--709},
+  year      = {2022}
+}
+
+@article{sociodemo-Drake-22,
+author = {Archie Drake and Isabel Sassoon and Panos Balatsoukas and Talya Porat and Mark Ashworth and Ellen Wright and Vasa Curcin and Martin Chapman and Nadin Kokciyan and Sanjay Modgil and Elizabeth Sklar and Simon Parsons},
+title ={The relationship of socio-demographic factors and patient attitudes to connected health technologies: A survey of stroke survivors},
+journal = {Health Informatics Journal},
+volume = {28},
+number = {2},
+pages = {1-19},
+year=2022
+}
+
+@ARTICLE{sociotech-Kokciyan-21,
+  author={Kokciyan, Nadin and Srivastava, Biplav and Huhns, Michael N. and Singh, Munindar P.},
+  journal={IEEE Internet Computing}, 
+  title={Sociotechnical Perspectives on AI Ethics and Accountability}, 
+  year={2021},
+  volume={25},
+  number={6},
+  pages={5-6}}
+
+
+@article{Sassoon2021ArgumentationSF,
+  title={Argumentation schemes for clinical decision support},
+  author={Isabel Sassoon and Nadin Kokciyan and Sanjay Modgil and Simon Parsons},
+  journal={Argument and Computation},
+  year={2021},
+  volume={12},
+  number= {3},
+  pages={329-355}
+}
+
+@inproceedings{ci-21,
+  author    = {Gideon Ogunniye and Nadin Kokciyan},
+  title     = {Argumentation-based Dialogues for Privacy Policy Reasoning},
+  booktitle = {The 3rd Annual Symposium on Applications of Contextual Integrity},
+  url = {https://edin.ac/3D8LuwC},
+  year      = {2021}
+}
+
+@ARTICLE{intsys-21-metalevel,
+author = {Kokciyan, Nadin and Sassoon, Isabel and Sklar, Elizabeth and Modgil, Sanjay and Parsons,Simon},
+journal = {IEEE Intelligent Systems},
+title = {Applying Metalevel Argumentation Frameworks to Support Medical Decision Making},
+year = {2021},
+publisher = {IEEE Computer Society},
+pages= {64-71},
+volume={36},
+number={2}
+}
+
+@ARTICLE{intcomp-20-trust,
+author = {Kokciyan, Nadin and Yolum, P{\i}nar},
+journal = {IEEE Internet Computing},
+title = {{TURP}: Managing Trust for Regulating Privacy in Internet of Things},
+year = {2020},
+publisher = {IEEE Computer Society},
+volume={24},
+number={6},
+pages={9-16}
+}
+
+@inproceedings{eumas-20-explanation, 
+title={An argumentation-based approach to generate domain-specific explanations}, 
+author={Kokciyan, Nadin and Parsons, Simon and Sassoon, Isabel and Sklar, Elizabeth and Modgil, Sanjay}, 
+booktitle={European Conference on Multiagent Systems (EUMAS)},
+year={2020},
+publisher="Springer International Publishing",
+pages="319--337"
+}
+
+@InProceedings{extraamas-19-dialogue,
+author="Sassoon, Isabel
+and Kokciyan, Nadin
+and Sklar, Elizabeth
+and Parsons, Simon",
+editor="Calvaresi, Davide
+and Najjar, Amro
+and Schumacher, Michael
+and Fr{\"a}mling, Kary",
+title="Explainable Argumentation for Wellness Consultation",
+booktitle="Explainable, Transparent Autonomous Agents and Multi-Agent Systems",
+year="2019",
+pages="186--202"
+}
+
+
+@INPROCEEDINGS{eurocon-19-design,
+author={P. {Balatsoukas} and T. {Porat} and I. {Sassoon} and K. {Essers} and N. Kokciyan and M. {Chapman} and A. {Drake} and S. {Modgil} and M. {Ashworth} and E. {Sklar} and S. {Parsons} and V. {Curcin}},
+booktitle={IEEE EUROCON International Conference on Smart Technologies}, 
+title={User Involvement in the Design of a Data-Driven Self-Management Decision Support Tool for Stroke Survivors}, 
+year={2019},
+pages={1-6}
+}
+
+
+@inproceedings{medinfo-19-consult,
+title = "A collaborative decision support tool for managing chronic conditions",
+author = "Nadin Kokciyan and Martin Chapman and Panagiotis Balatsoukas and Isabel Sassoon and Kai Essers and Mark Ashworth and Vasa Curcin and Sanjay Modgil and Simon Parsons and {Elizabeth I} Sklar",
+year = "2019",
+booktitle = "Proceedings of the 17th World Congress of Medical and Health Informatics (MedInfo)",
+Volume = {264},
+pages = {644--648}
+}
+
+@inproceedings{aamas-19-consultdemo,
+title = "Computational Argumentation-based Clinical Decision Support",
+author = "Martin Chapman and Nadin Kokciyan and Kai Essers and Isabel Sassoon and Panagiotis Balatsoukas and Mark Ashworth and Vasa Curcin and Simon Parsons and Sanjay Modgil and {Elizabeth I} Sklar",
+year = "2019",
+booktitle = "Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)",
+pages = {2345–2347}
+}
+
+@inproceedings{hai-18-commitment,
+title = "Towards the use of Commitments in Multi-agent decision support systems",
+author = "Isabel Sassoon and Nadin Kokciyan and Simon Parsons and {Elizabeth I} Sklar",
+year = "2018",
+booktitle = "Workshop on Dialogue, Explanation and Argumentation at Human Agent Interaction (HAI)"
+}
+
+@inproceedings{hai-18-consultdemo,
+title = "The CONSULT System (Demo Paper)",
+author = "Kai Essers and Martin Chapman and Nadin Kokciyan and Isabel Sassoon and Talya Porat and Panagiotis Balatsoukas and Peter Young and Mark Ashworth and Vasa Curcin and Sanjay Modgil and Simon Parsons and {Elizabeth I} Sklar",
+year = "2018",
+booktitle = "Proceedings of the 6th International Conference on Human Agent Interaction (HAI)",
+publisher = "{ACM}",
+pages = {385–386},
+numpages = {2}
+}
+
+@inproceedings{comma-18-argsoc,
+title = "Argumentation-based Decision Support for Patient Self-Management",
+author = "Sassoon, {Isabel} and Nadin Kokciyan and Young, {Anthony P.} and Sanjay Modgil and Simon Parsons",
+year = "2018",
+booktitle = "Proceedings of the 7th International Conference on Computational Models of Argument (COMMA) ArgSoc Workshop"
+}
+
+@inproceedings{amia-18-stakeholder,
+title = "Stakeholders' views on a collaborative decision support system to promote multimorbidity self-management: barriers, facilitators and design implications",
+author = "Talya Porat and Nadin Kokciyan and Isabel Sassoon and Young, {Anthony P.} and Martin Chapman and Mark Ashworth and Sanjay Modgil and Simon Parsons and Elizabeth Sklar and Vasa Curcin",
+year = "2018"
+}
+
+@inproceedings{comma-18-metaleveldemo,
+title = "Reasoning with Metalevel Argumentation Frameworks in Aspartix (Demo Paper)",
+author = "Nadin Kokciyan and Sassoon, {Isabel} and Young, {Anthony P.} and Sanjay Modgil and Simon Parsons",
+year = "2018",
+booktitle = "Computational Models of Argument - Proceedings of {COMMA}",
+publisher = "IOS Press",
+pages = "463--464"
+}
+
+@inproceedings{comma-18-metalevel,
+title = "Instantiating Metalevel Argumentation Frameworks",
+author = "Young, {Anthony P.} and Nadin Kokciyan and Sassoon, {Isabel} and Sanjay Modgil and Parsons, {Simon}",
+ year = "2018",
+booktitle = "Computational Models of Argument - Proceedings of {COMMA} 2018",
+publisher = "IOS Press",
+pages = "97--108"
+}
+
+@article{toit-17-prinego,
+ author = {Kekulluoglu, Dilara and Kokciyan, Nadin and Yolum, P{\i}nar},
+ title = {Preserving Privacy As Social Responsibility in Online Social Networks},
+ journal = {ACM Transactions on Internet Technology (TOIT)},
+ volume = {18},
+ number = {4},
+ year = {2018},
+ pages = {42:1--42:22},
+ articleno = {42},
+ numpages = {22}
+} 
+
+@ARTICLE{tkde-16-priguard, 
+author={Nadin Kokciyan and P{\i}nar Yolum}, 
+journal={IEEE Transactions on Knowledge and Data Engineering (TKDE)}, 
+title={{PriGuard}: A Semantic Approach to Detect Privacy Violations in Online Social Networks}, 
+year={2016}, 
+volume={28}, 
+number={10}, 
+pages={2724-2737}
+}
+
+@article{toit-17-priarg,
+ author = {Kokciyan, Nadin and Yaglikci, Nefise and Yolum, P{\i}nar},
+ title = {An Argumentation Approach for Resolving Privacy Disputes in Online Social Networks},
+ journal = {ACM Transactions on Internet Technology (TOIT)},
+ volume = {17},
+ number = {3},
+ year = {2017},
+ pages = {27:1--27:22},
+ articleno = {27}
+}
+
+@incollection{emas-16-priguardtool,
+author="Kokciyan, Nadin
+and Yolum, P{\i}nar",
+editor="Baldoni, Matteo
+and M{\"u}ller, Jorg P.
+and Nunes, Ingrid
+and Zalila-Wenkstern, Rym",
+title="PriGuardTool: A Web-Based Tool to Detect Privacy Violations Semantically",
+bookTitle="Engineering Multi-Agent Systems (EMAS) Workshop, Revised, Selected, and Invited Papers",
+year="2016",
+publisher="Springer",
+pages="81--98"
+}
+
+@inproceedings{kokciyan-18-traffic,
+title = "Privacy-Preserving Intersection Management for Autonomous Vehicles",
+author = "Nadin Kokciyan and Erdogan, Mustafa and Meral, {Tuna Han Salih} and Yolum, P{\i}nar",
+year = "2018",
+day = "5",
+booktitle = "CEUR Workshop Proceedings",
+keywords = {privacy,negotiation,prevention}
+}
+
+@inproceedings{kokciyan-sassoon-18,
+title = "Towards an Argumentation System for Supporting Patients in Self-Managing their Chronic Conditions",
+author = "Nadin Kokciyan and Sassoon, {Isabel} and Young, {Anthony P.} and Chapman, {Martin} and Porat, {Talya} and Mark Ashworth and Vasa Curcin and Sanjay Modgil and Parsons, {Simon} and Sklar, {Elizabeth I.}",
+year = "2018",
+booktitle = "AAAI Joint Workshop on Health Intelligence (W3PHIAI)"
+}
+
+@inproceedings{ijcai-17-ci,
+  author    = {Nadin Kokciyan and P{\i}nar Yolum},
+  title     = {Context-Based Reasoning on Privacy in Internet of Things},
+  booktitle = {Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence (IJCAI)},
+  pages     = {4738--4744},
+  year      = {2017}
+}
+
+@inproceedings{ecai-16-negotiation-demo,
+  author    = {Dilara Kekulluoglu and Nadin Kokciyan and Pinar Yolum},
+  title     = {A Tool for Negotiating Privacy Constraints in Online Social Networks (Demo Paper)},
+  booktitle = {European Conference on Artificial Intelligence (ECAI)},
+  pages     = {},
+  year      = {2016}
+}
+
+@inproceedings{ecai-16-negotiation,
+  author    = {Dilara Kekulluoglu and
+               Nadin Kokciyan and
+               Pinar Yolum},
+  title     = {Strategies for Privacy Negotiation in Online Social Networks},
+  booktitle = {European Conference on Artificial Intelligence (ECAI)},
+  pages     = {1608--1609},
+  year      = {2016}
+}
+
+@ARTICLE{jbhi-14-onlira, 
+author={Nadin Kokciyan and Rustu Turkay and Suzan Uskudarli and P{\i}nar Yolum and Baris Bak{\i}r and Burak Acar}, 
+journal={IEEE Journal of Biomedical and Health Informatics (JBHI)}, 
+title={Semantic Description of Liver CT Images: An Ontological Approach}, 
+year={2014}, 
+volume={18}, 
+number={4}, 
+pages={1363-1369}
+}
+
+@inproceedings{praise-16-negotiation,
+ author = {Kekulluoglu, Dilara and Kokciyan, Nadin and Yolum, Pinar},
+ title = {Strategies for Privacy Negotiation in Online Social Networks},
+ booktitle = {Proceedings of the 1st International Workshop on AI for Privacy and Security (PrAISe)},
+ year = {2016},
+ pages = {2:1--2:8},
+ articleno = {2},
+ numpages = {8}
+} 
+
+@inproceedings{aamas-16-priguardtool,
+ author = {Kokciyan, Nadin and Yolum, P{\i}nar},
+ title = {{PriGuardTool}: A Tool for Monitoring Privacy Violations in Online Social Networks},
+ booktitle = {Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+ year = {2016},
+ pages = {1496--1497},
+ numpages = {2}
+}
+
+@inproceedings{aamas-16-priarg,
+ author = {Kokciyan, Nadin and Yaglikci, Nefise and Yolum, P{\i}nar},
+ title = {Argumentation for Resolving Privacy Disputes in Online Social Networks},
+ booktitle = {Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+ year = {2016},
+ pages = {1361--1362},
+ numpages = {2}
+}
+
+@inproceedings{aaai-16-dc,
+	author = {Nadin Kokciyan},
+	title = {Privacy Management in Agent-Based Social Networks (Doctoral Consortium)},
+	booktitle = {AAAI Conference on Artificial Intelligence},
+	year = {2016}
+}
+
+@inproceedings{aamas-15-dc,
+ author = {Kokciyan, Nadin},
+ title = {Privacy Management in Agent-Based Social Networks},
+ booktitle = {Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+ year = {2015},
+ pages = {2019--2020},
+ numpages = {2}
+} 
+
+@incollection{mfsc-15-prinego,
+author="Mester, Yavuz and Kokciyan, Nadin and Yolum, P{\i}nar",
+editor="Koch, Fernando
+and Guttmann, Christian
+and Busquets, Didac",
+title="Negotiating Privacy Constraints in Online Social Networks",
+booktitle="Advances in Social Computing and Multiagent Systems: International Workshop on Collaborative Agents Research and Development (CARE), and International Workshop on Multiagent Foundations of Social Computing (MFSC)",
+year="2015",
+publisher="Springer",
+pages="112--129"
+}
+
+@inproceedings{miirh-13-onlira,
+ author = {Barzegar Marvasti, Neda and Akg\"{u}l, Ceyhun Burak and Acar, Burak and Kokciyan, Nadin and \"{U}sk\"{u}darl{\i}, Suzan and Yolum, P{\i}nar and T\"{u}rkay, R\"{u}st\"{u} and Bakir, Baris},
+ title = {Clinical Experience Sharing by Similar Case Retrieval},
+ booktitle = {Proceedings of the 1st ACM International Workshop on Multimedia Indexing and Information Retrieval for Healthcare (MIIRH)},
+ year = {2013},
+ pages = {67--74},
+ numpages = {8}
+} 
+
+@inproceedings{rsna-13-onlira,
+	author={Kokciyan, Nadin and T\"{u}rkay, R\"{u}st\"{u} and \"{U}sk\"{u}darl{\i}, Suzan and Yolum, P{\i}nar and Acar, Burak and Bakir, Baris},
+	location={Chicago, USA},
+	booktitle={{Proceedings of the Radiological Society of North America (RSNA)}},
+	title={{ONLIRA: A Semantic Knowledge Representation of Liver CT Images}},
+	year={2013}
+}
+
+@inproceedings{semeval-13-bounce,
+  title={{BOUNCE}: Sentiment classification in {Twitter} using rich feature sets},
+  author={Kokciyan, Nadin and Celebi, Arda and Ozg{\"u}r, Arzucan and Usk{\"u}darl{\i}, Suzan},
+  booktitle={Second Joint Conference on Lexical and Computational Semantics (* SEM)},
+  volume={2},
+  pages={554--561},
+  year={2013}
+}
+
+@INPROCEEDINGS{socialcom-12-weflow, 
+author={Nadin Kokciyan and Suzan Uskudarli and T. B. Dinesh}, 
+booktitle={International Conference on Privacy, Security, Risk and Trust and on Social Computing}, 
+title={User Generated Human Computation Applications}, 
+year={2012}, 
+pages={593-598}
+}
+
+@inproceedings{kokciyan2014commitment,
+  title={Commitment-based privacy management in online social networks},
+  author={Kokciyan, Nadin and Yolum, P{\i}nar},
+  year="2014",
+  keywords = {privacy,detection,ontology},
+  booktitle="Multiagent Foundations of Social Computing Workshop at International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
+}
