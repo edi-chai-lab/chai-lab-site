@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ameer Saadat-Yazdi
-position: PhD Student
+position: Former PhD Student
 github: ameertg
 image: /images/team/ameer-saadat-yazdi.jpg
 ---
