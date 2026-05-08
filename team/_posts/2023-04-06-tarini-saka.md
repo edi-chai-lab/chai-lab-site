@@ -4,4 +4,5 @@ title: Tarini Saka
 position: Former PhD Student
 image: /images/team/tarini-saka.jpg
 link: https://tarinisaka.github.io/
+now: Post-Doctoral Researcher at Ruhr University Bochum
 ---
