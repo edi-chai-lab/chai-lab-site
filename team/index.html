@@ -14,7 +14,7 @@ categories:
 </div>
 
 <div class="bigspacer"></div>
-{% assign sorted = site.categories.team | sort:"date" %}
+{% assign sorted = site.categories.team | sort:"date" | reverse %}
 
 {% for member in sorted %}
 	{% if member.alumni != true %}
