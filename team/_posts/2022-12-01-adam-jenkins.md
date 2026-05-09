@@ -2,7 +2,7 @@
 layout: member
 title: Adam Jenkins
 position: Former PostDoc
-image: 
+image: /images/team/adam-jenkins.jpg
 website: https://www.kcl.ac.uk/people/adam-jenkins
 alumni: true
 ---
