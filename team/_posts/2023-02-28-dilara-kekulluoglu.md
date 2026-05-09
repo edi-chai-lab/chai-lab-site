@@ -1,10 +1,10 @@
 ---
 layout: member
 title: Dilara Kekulluoglu
-position: Assistant Professor at Sabancı University in İstanbul, Türkiye
+position: Former PostDoc
 image: /images/team/dilara-kekulluoglu.jpg
 website: https://dilarakkl.github.io/
 alumni: true
 ---
 
-Dilara was one of our former postdocs of CHAI Lab.
+Dilara is now an Assistant Professor at [Sabancı University](https://www.sabanciuniv.edu/en) in İstanbul, Türkiye.
