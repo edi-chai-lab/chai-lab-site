@@ -1,8 +1,10 @@
 ---
 layout: member
 title: Tarini Saka
-position: Former PhD Student
+position: Post-Doctoral Researcher at Ruhr University Bochum
 image: /images/team/tarini-saka.jpg
 website: https://tarinisaka.github.io/
-now: Post-Doctoral Researcher at Ruhr University Bochum
+alumni: true 
 ---
+
+Tarini was one of our former PhD students of CHAI Lab.
