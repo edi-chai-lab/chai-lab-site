@@ -2,7 +2,7 @@
 layout: member
 title: Gideon Ogunniye
 position: Former PostDoc
-image: 
+image: /images/team/gideon-ogunniye.jpeg
 website: https://www.abdn.ac.uk/people/g.ogunniye
 alumni: true
 ---
