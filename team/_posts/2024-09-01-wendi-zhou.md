@@ -2,5 +2,5 @@
 layout: member
 title: Wendi Zhou
 position: PhD Student
-image: 
+image: /images/team/wendi-zhou.jpeg
 ---
