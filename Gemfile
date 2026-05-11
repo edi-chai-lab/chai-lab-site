@@ -15,3 +15,6 @@ gem 'jekyll-twitter-plugin'
 
 # bibtex
 gem 'bibtex-ruby'
+
+# jekyll-scholar
+gem 'jekyll-scholar', group: :jekyll_plugins
