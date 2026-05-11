@@ -1,7 +1,7 @@
 name: CHAI Lab
 description: Human Centred Artificial Intelligence at the University of Edinburgh
 url: https://chai-lab.gitlab.io/
-baseurl: /chai-lab-site
+baseurl: /
 destination: public/
 
 markdown: kramdown
