@@ -2,5 +2,5 @@
 layout: member
 title: Kalliopi Vakali
 position: PhD Student
-image: 
+image: /images/team/kalliopi-vakali.jpg
 ---
