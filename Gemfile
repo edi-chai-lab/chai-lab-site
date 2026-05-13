@@ -12,6 +12,12 @@ gem 'netrc'
 
 # Twitter
 gem 'jekyll-twitter-plugin'
+gem 'ostruct' 
+gem 'webrick' 
 
 # bibtex
 gem 'bibtex-ruby'
+
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
